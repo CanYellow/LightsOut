@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542733154 source:/home/canyellow/Downloads/lightsOut/exhaustingSearch/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
